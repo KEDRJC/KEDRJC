@@ -1,16 +1,22 @@
-## Hi there 👋
+Bem vindo ao meu perfil
 
-<!--
-**KEDRJC/KEDRJC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Meu nome é Kauã Eduardo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Sou estudante da escola E.E. PEI JOÂO CLIMACO DE CAMARGO PIRES
+
+
+Utilizamos como ferramenta nas aulas de robótica os cursos do Alura
+
+
+Estou desenvolvendo linguagem JAVASCRIPT com meus colegas
+
+
+Utilizo esse espaço para organização e compartilhamento dos meus projetos
+
+VocÊ pode entrar em contato comigo:
+
+00001098028399SP@al.educacao.sp.gov.br
+
+![](https://media1.tenor.com/m/jt9JbkFiSyQAAAAC/lunch-licking.gif)
